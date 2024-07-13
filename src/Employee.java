@@ -8,7 +8,7 @@ public abstract class Employee {
         this.lastName = lastName;
         this.socialSecurityNumber = SSN;
     }
-// ffwfwf
+
     public void print() {
         System.out.println(STR."\{firstName} \{lastName}");
         System.out.println(STR."social security number: \{socialSecurityNumber}");
